@@ -4,6 +4,11 @@ Supported languages are English and German, but the script can easily be adapted
 
 Be aware that not using real dice, but the OS secure random number generator may defeat the purpose of creating real random numbers depending on the environment in which you run this script!
 
+## Run
+```sh
+python generate.py
+```
+
 For further information on Diceware see: https://en.wikipedia.org/wiki/Diceware
 
 Thanks to EFF for their English wordlist: https://www.eff.org/deeplinks/2016/07/new-wordlists-random-passphrases
